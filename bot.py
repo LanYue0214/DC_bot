@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 import random
 import os 
 import json
+from keep_alive import keep_alive
 
 with open('setting.json',mode = 'r', encoding='utf8') as jfile: #r is read
     jdata = json.load(jfile)
@@ -54,4 +55,5 @@ for filename in os.listdir('./cmds'):
 
 
 if __name__ == "__main__":
+    keep_alive()
     bot.run(TOKEN)#jdata['TOKEN'])
