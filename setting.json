@@ -1,11 +1,35 @@
 {
-    
     "Welcome_channel": "877787165822689341",
-
-    "pic": "D:\\download\\python\\discordbot\\pic\\嗷嗷之星.jpg",
-
-    "url_pic": ["https://i.imgur.com/oKui4yy.jpg","https://i.imgur.com/siRPgJZ.jpg"],
-    
-    "bad_words": ["幹你娘", "motherfucker", "靠杯","幹","fucker", "靠","靠北","三小","贛"
+    "bad_words": [
+        "\u5e79",
+        "\u9760",
+        "\u4e09\u5c0f",
+        "\u8d1b",
+        "FUCK",
+        "\u516b\u560e",
+        "Bitch",
+        "fuck",
+        "bitch",
+        "\u6de6",
+        "FUck",
+        "FUcK",
+        "FucK",
+        "\u7068",
+        "fUCK",
+        "fUCk"
+    ],
+    "ban": [
+        "NTR",
+        "NMSL",
+        "NBSL",
+        "\u96de\u5df4"
+    ],
+    "no_liar": [
+        "\u6211\u597d\u5e25",
+        "\u6211\u662f\u5929\u624d"
+    ],
+    "pic": "D:\\download\\python\\discordbot\\pic\\\u55f7\u55f7\u4e4b\u661f.jpg",
+    "url_pic": [
+        "https://i.imgur.com/1N39QIi.jpg"
     ]
 }

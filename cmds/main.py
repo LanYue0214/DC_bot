@@ -1,3 +1,4 @@
+#simple command and ping robot is here
 from core.classes import Cog_Extension
 import discord
 from discord.ext import commands
